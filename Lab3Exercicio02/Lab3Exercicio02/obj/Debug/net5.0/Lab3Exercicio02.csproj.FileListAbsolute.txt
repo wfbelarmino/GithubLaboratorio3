@@ -1,0 +1,15 @@
+C:\PROJETOS\CYBERTRON\Laboratorio3\Lab3Exercicio02\Lab3Exercicio02\obj\Debug\net5.0\Lab3Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\CYBERTRON\Laboratorio3\Lab3Exercicio02\Lab3Exercicio02\obj\Debug\net5.0\Lab3Exercicio02.AssemblyInfoInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio3\Lab3Exercicio02\Lab3Exercicio02\obj\Debug\net5.0\Lab3Exercicio02.AssemblyInfo.cs
+C:\PROJETOS\CYBERTRON\Laboratorio3\Lab3Exercicio02\Lab3Exercicio02\obj\Debug\net5.0\Lab3Exercicio02.csproj.CoreCompileInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio3\Lab3Exercicio02\Lab3Exercicio02\bin\Debug\net5.0\Lab3Exercicio02.exe
+C:\PROJETOS\CYBERTRON\Laboratorio3\Lab3Exercicio02\Lab3Exercicio02\bin\Debug\net5.0\Lab3Exercicio02.deps.json
+C:\PROJETOS\CYBERTRON\Laboratorio3\Lab3Exercicio02\Lab3Exercicio02\bin\Debug\net5.0\Lab3Exercicio02.runtimeconfig.json
+C:\PROJETOS\CYBERTRON\Laboratorio3\Lab3Exercicio02\Lab3Exercicio02\bin\Debug\net5.0\Lab3Exercicio02.runtimeconfig.dev.json
+C:\PROJETOS\CYBERTRON\Laboratorio3\Lab3Exercicio02\Lab3Exercicio02\bin\Debug\net5.0\Lab3Exercicio02.dll
+C:\PROJETOS\CYBERTRON\Laboratorio3\Lab3Exercicio02\Lab3Exercicio02\bin\Debug\net5.0\ref\Lab3Exercicio02.dll
+C:\PROJETOS\CYBERTRON\Laboratorio3\Lab3Exercicio02\Lab3Exercicio02\bin\Debug\net5.0\Lab3Exercicio02.pdb
+C:\PROJETOS\CYBERTRON\Laboratorio3\Lab3Exercicio02\Lab3Exercicio02\obj\Debug\net5.0\Lab3Exercicio02.dll
+C:\PROJETOS\CYBERTRON\Laboratorio3\Lab3Exercicio02\Lab3Exercicio02\obj\Debug\net5.0\ref\Lab3Exercicio02.dll
+C:\PROJETOS\CYBERTRON\Laboratorio3\Lab3Exercicio02\Lab3Exercicio02\obj\Debug\net5.0\Lab3Exercicio02.pdb
+C:\PROJETOS\CYBERTRON\Laboratorio3\Lab3Exercicio02\Lab3Exercicio02\obj\Debug\net5.0\Lab3Exercicio02.genruntimeconfig.cache

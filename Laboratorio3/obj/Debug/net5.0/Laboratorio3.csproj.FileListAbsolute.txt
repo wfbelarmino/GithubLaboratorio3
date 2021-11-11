@@ -1,0 +1,16 @@
+C:\PROJETOS\CYBERTRON\Laboratorio3\Laboratorio3\bin\Debug\net5.0\Laboratorio3.exe
+C:\PROJETOS\CYBERTRON\Laboratorio3\Laboratorio3\bin\Debug\net5.0\Laboratorio3.deps.json
+C:\PROJETOS\CYBERTRON\Laboratorio3\Laboratorio3\bin\Debug\net5.0\Laboratorio3.runtimeconfig.json
+C:\PROJETOS\CYBERTRON\Laboratorio3\Laboratorio3\bin\Debug\net5.0\Laboratorio3.runtimeconfig.dev.json
+C:\PROJETOS\CYBERTRON\Laboratorio3\Laboratorio3\bin\Debug\net5.0\Laboratorio3.dll
+C:\PROJETOS\CYBERTRON\Laboratorio3\Laboratorio3\bin\Debug\net5.0\ref\Laboratorio3.dll
+C:\PROJETOS\CYBERTRON\Laboratorio3\Laboratorio3\bin\Debug\net5.0\Laboratorio3.pdb
+C:\PROJETOS\CYBERTRON\Laboratorio3\Laboratorio3\obj\Debug\net5.0\Laboratorio3.csproj.AssemblyReference.cache
+C:\PROJETOS\CYBERTRON\Laboratorio3\Laboratorio3\obj\Debug\net5.0\Laboratorio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\CYBERTRON\Laboratorio3\Laboratorio3\obj\Debug\net5.0\Laboratorio3.AssemblyInfoInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio3\Laboratorio3\obj\Debug\net5.0\Laboratorio3.AssemblyInfo.cs
+C:\PROJETOS\CYBERTRON\Laboratorio3\Laboratorio3\obj\Debug\net5.0\Laboratorio3.csproj.CoreCompileInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio3\Laboratorio3\obj\Debug\net5.0\Laboratorio3.dll
+C:\PROJETOS\CYBERTRON\Laboratorio3\Laboratorio3\obj\Debug\net5.0\ref\Laboratorio3.dll
+C:\PROJETOS\CYBERTRON\Laboratorio3\Laboratorio3\obj\Debug\net5.0\Laboratorio3.pdb
+C:\PROJETOS\CYBERTRON\Laboratorio3\Laboratorio3\obj\Debug\net5.0\Laboratorio3.genruntimeconfig.cache
